@@ -11,3 +11,6 @@
 - IMAGE
 - IFRAME
 - style Attribute
+- form
+- input (text,email, number, date, color, range)
+- button
