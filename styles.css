@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://play-lh.googleusercontent.com/hk8iQXXkhogZ0sGk9NW7DH6sDxz0JiD1RKhpnnHaffRyYbEAkmxYY8vSjG7J4dnuXgo');
+}
+
+.box {
+    background-color: grey;
+    width: 400px;
+    padding: 40px;
+    margin: auto;
+}
+
+#form {
+    background-color: aqua;
+}
+
+.blog-para {
+    color: white;
+}
+
+.heading {
+    color: pink;
+    background: white;
+
+}
+
+#one {
+    background: green;
+}
+
+.input-style {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 2px;
+}
